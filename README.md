@@ -2,7 +2,7 @@
 - 👀 I’m interested in the nature, self development, data, languages.
 - 🌱 I’m currently on a path to become a Data Scientist.
 
-- 📫 You can reach me on basakaplan503@gmail.com
+- 📫 You can reach me on bk124084@student.sgh.waw.pl
 
 <!---
 kapplan/kapplan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
