@@ -50,14 +50,14 @@ You can click the Preview link to take a look at your changes.
   <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/Kapplan/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kapplan&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="Kapplan :: overall Top Langs " /></a>
       </p>
         <p align="center">
           <a href="https://github.com/Kapplan/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kapplan&theme=gruvbox&layout=compact&hide_border=true"
           alt="Kapplan :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kapplan&theme=gruvbox&layout=compact&hide_border=true"
           alt="Kapplan :: Top Langs by commit" />
           </a>
         </p>
@@ -65,8 +65,8 @@ You can click the Preview link to take a look at your changes.
     <details open>
   <summary><h3>stasistic</h3></summary>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/Kapplan/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Kapplan&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
           </a>
        </p>
