@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Başak, </h1>
-<h4 align="center"> a data scientist. Currently, doing my master's degree in big data and avdanced analytics at the warsaw school of economics 👀 I’m interested in the nature, self development, tech, languages. I'm a lifelong learner who thrives on new challenges.</h4>
+<h4 align="center"> a data scientist. Currently, doing my master's degree in big data and avdanced analytics at the Warsaw School of EEconomics 👀 I’m interested in the nature, self development, tech, languages. I'm a lifelong learner who thrives on new challenges.</h4>
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   <summary>☎️ contact me</summary>
 <div>
   <samp>
-    <h2 align="center">you can reach me through these linkss:</h2>
+    <h2 align="center">you can reach me through these links:</h2>
     <p align="center">
       <br/>
       <a href="www.linkedin.com/in/başak-kaplan-503" target="blank"><img align="center"
