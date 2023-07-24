@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
       <a href="www.linkedin.com/in/başak-kaplan-503" target="blank"><img align="center"
          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="başak" height="30"/></a
-      <a href="mailto:bk124084@student.sgh.waw.pl" target="_blank">
+      <a href="mailto:basakaplan503@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="başak" height="30" /></a>
     </p>
   <p align="center">
