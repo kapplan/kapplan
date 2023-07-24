@@ -5,7 +5,7 @@ kapplan/kapplan is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Başak, </h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm Başak, </h1>
 <h4 align="center"> a data scientist. Currently, doing my master's degree in big data and avdanced analytics at the Warsaw School of EEconomics 👀 I’m interested in the nature, self development, tech, languages. I'm a lifelong learner who thrives on new challenges.</h4>
 </div>
 
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
       <a href="www.linkedin.com/in/başak-kaplan-503" target="blank"><img align="center"
          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="başak" height="30"/></a
-      <a href="bk124084@student.sgh.waw.pl" target="blank"><img align="center"
+      <a href="mailto:bk124084@student.sgh.waw.pl" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="başak" height="30"/></a>
     </p>
