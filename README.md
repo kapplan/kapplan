@@ -26,11 +26,10 @@ You can click the Preview link to take a look at your changes.
       <a href="www.linkedin.com/in/başak-kaplan-503" target="blank"><img align="center"
          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="başak" height="30"/></a
-      <a href="https://medium.com/@basakaplan" target="blank"><img align="center"
+      <a href="www.medium.com/@basakaplan" target="blank"><img align="center"
          src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
          alt="başak" height="30"/></a>
-      <br/>                                    
-       </p>                              
+      <br/>                                                               
       <a href="mailto:bk124084@student.sgh.waw.pl" target="_blank">Click here to email me</a>
     </p>
   <p align="center">
