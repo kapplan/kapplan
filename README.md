@@ -1,7 +1,3 @@
-<!-- Include the Font Awesome library for icons -->
-<style>
-  @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css');
-</style>
 
 <!---
 kapplan/kapplan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +25,6 @@ You can click the Preview link to take a look at your changes.
       <a href="https://www.linkedin.com/in/başak-kaplan-503" target="blank"><img align="center"
          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="başak" height="30"/></a>
-      <!-- Corrected Medium link -->
       <a href="https://www.medium.com/@basakaplan" target="blank" style="text-decoration:none; color: #000000;">
         <i class="fa-brands fa-medium" style="font-size:1.5em; color: #070808;"></i>
       </a>
