@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 -----
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>☎️ Contact me</summary>
 <div>
   <samp>
     <h2 align="center">You can reach me through these links:</h2>
@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
       <a href="mailto:bk124084@student.sgh.waw.pl" target="_blank">Click here to email me</a>
     </p>
     <p align="center">
-      <a href="https://wa.me/+48575714353" target="blank"><img align="center"
+      <a href="https://wa.me/+48536462196" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="WhatsApp" height="30"/></a>
       <br>
