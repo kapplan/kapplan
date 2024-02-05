@@ -4,7 +4,7 @@ kapplan/kapplan is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm Başak, </h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm Başak </h1>
 <h4 align="center"> Currently, studying for my master's degree in Big Data and Avdanced Analytics at the Warsaw School of Economics 👀 II'm a lifelong learner who thrives on new challenges.</h4>
 </div>
 
