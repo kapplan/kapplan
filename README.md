@@ -5,14 +5,18 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi! I'm Başak. </h1>
-<h4 align="center"> Currently, studying for my master's degree in Big Data and Avdanced Analytics at the Warsaw School of Economics 👀 
+<h4 align="center"> Currently, studying for my master's degree in Big Data and Avdanced Analytics at the Warsaw School of Economics.
 </div>
 
+<hr>
+
 <div align="center">
-  <a href="https://github.com/kapplan/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+  </a>
 </div>
+
+<hr>
 
 -----
 <details>
