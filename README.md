@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="başak" height="30"/></a>
       <a href="https://www.medium.com/@basakaplan" target="_blank">
-        <img align="center" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgNjQwIDUxMiI+PCEtLSEgRm9udCBBd2Vzb21lIEZyZWUgNi40LjIgYnkgQGZvbnRhd2Vzb21lIC0gaHR0cHM6Ly9mb250YXdlc29tZS5jb20gTGljZW5zZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tL2xpY2Vuc2UgKENvbW1lcmNpYWwgTGljZW5zZSkgQ29weXJpZ2h0IDIwMjMgRm9udGljb25zLCBJbmMuIC0tPjxzdHlsZT5zdmd7ZmlsbDojMDcwODA4fTwvc3R5bGU+PHBhdGggZD0iTTE4MC41LDc0LjI2MkM4MC44MTMsNzQuMjYyLDAsMTU1LjYzMywwLDI1NlM4MC44MTksNDM3LjczOC>
+        <img align="center" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgNjQwIDUxMiI+PCEtLSEgRm9udCBBd2Vzb21lIEZyZWUgNi40LjIgYnkgQGZvbnRhd2Vzb21lIC0gaHR0cHM6Ly9mb250YXdlc29tZS5jb20gTGljZW5zZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tL2xpY2Vuc2UgKENvbW1lcmNpYWwgTGljZW5zZSkgQ29weXJpZ2h0IDIwMjMgRm9udGljb25zLCBJbmMuIC0tPjxzdHlsZT5zdmd7ZmlsbDojMDcwODA4fTwvc3R5bGU+PHBhdGggZD0iTTE4MC41LDc0LjI2MkM4MC44MTMsNzQuMjYyLDAsMTU1LjYzMywwLDI1NlM4MC44MTksNDM3LjczOC
       </a>
                                                                 
       <a href="mailto:bk124084@student.sgh.waw.pl" target="_blank">Click here to email me</a>
