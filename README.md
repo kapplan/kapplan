@@ -62,7 +62,6 @@ You can click the Preview link to take a look at your changes.
         <p align="center">
           <a href="https://github.com/Kapplan/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Kapplan&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
