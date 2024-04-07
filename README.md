@@ -8,16 +8,6 @@ You can click the Preview link to take a look at your changes.
 <h4 align="center"> Currently, studying for my master's degree in Big Data and Avdanced Analytics at the Warsaw School of Economics.
 </div>
 
-<hr>
-
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
-  </a>
-</div>
-
-<hr>
-
 -----
 <details>
   <summary>☎️ Contact me</summary>
