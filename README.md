@@ -1,70 +1,34 @@
+<h1 align="center">Hi 👋 I'm Başak.</h1>
+<h3 align="center">A passionate data scientist pursuing a master's degree in Big Data-Advanced Analytics</h3>
 
-<!---
-kapplan/kapplan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kapplaan&label=Profile%20views&color=0e75b6&style=flat" alt="kapplaan" /> </p>
 
-<h1 align="center">Hi! I'm Başak. </h1>
-<h4 align="center"> Currently, studying for my master's degree in Big Data and Avdanced Analytics at the Warsaw School of Economics.
-</div>
+- 🔭 I’m currently working on **Satellite Image Time Series Analysis for Drought Monitoring in Poland**
 
------
-<details>
-  <summary>☎️ Contact me</summary>
-<div>
-  <samp>
-    <h2 align="center">You can reach me through these links:</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/başak-kaplan-503" target="blank"><img align="center"
-         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="başak" height="30"/></a>
-      <a href="https://www.medium.com/@basakaplan" target="_blank">
-        <img align="center" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgNjQwIDUxMiI+PCEtLSEgRm9udCBBd2Vzb21lIEZyZWUgNi40LjIgYnkgQGZvbnRhd2Vzb21lIC0gaHR0cHM6Ly9mb250YXdlc29tZS5jb20gTGljZW5zZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tL2xpY2Vuc2UgKENvbW1lcmNpYWwgTGljZW5zZSkgQ29weXJpZ2h0IDIwMjMgRm9udGljb25zLCBJbmMuIC0tPjxzdHlsZT5zdmd7ZmlsbDojMDcwODA4fTwvc3R5bGU+PHBhdGggZD0iTTE4MC41LDc0LjI2MkM4MC44MTMsNzQuMjYyLDAsMTU1LjYzMywwLDI1NlM4MC44MTksNDM3LjczOC
-      </a>
-                                                                
-      <a href="mailto:bk124084@student.sgh.waw.pl" target="_blank">Click here to email me</a>
-    </p>
-    <p align="center">
-      <a href="https://wa.me/+48536462196" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="WhatsApp" height="30"/>
-      </a>
-    </p>
-</div>
-</details>
+- 🌱 I’m currently learning **AI/ML**
 
-</details>
-  <summary>💻 GitHub Profile Stats</summary>
-  <div align="center">
-    <h2>Github stats</h2>
-    <details open>
-      <summary><h3>Languages</h3></summary>
-      <p align="center">
-        <a href="https://github.com/Kapplan/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kapplan&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Kapplan :: overall Top Langs " /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/Kapplan/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kapplan&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Kapplan :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kapplan&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Kapplan :: Top Langs by commit" />
-          </a>
-        </p>
-</details>
-    <details open>
-  <summary><h3>stasistic</h3></summary>
-        <p align="center">
-          <a href="https://github.com/Kapplan/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Kapplan&show_icons=true&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-     </samp>
-  </div>    
-</details>
+- 📝 I regularly write articles on [https://basakaplan.medium.com/](https://basakaplan.medium.com/)
 
+- 💬 Ask me about **anything!**
 
+- 📫 How to reach me **basakaplan503@gmail.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/başak-kaplan-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="başak-kaplan-" height="30" width="40" /></a>
+<a href="https://medium.com/@basakaplan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@basakaplan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kapplan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kapplan" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapplaan&show_icons=true&locale=en&layout=compact" alt="kapplaan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapplaan&show_icons=true&locale=en" alt="kapplaan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapplaan&" alt="kapplaan" /></p>
