@@ -33,8 +33,8 @@ You can click the Preview link to take a look at your changes.
     </p>
   </samp>
 </div>
-  
------
+</details>
+
 </details>
   <summary>💻 GitHub Profile Stats</summary>
   <div>
