@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapplaan&label=Profile%20views&color=0e75b6&style=flat" alt="kapplaan" /> </p>
 
-- 🔭 I’m currently working on **Satellite Image Time Series Analysis for Drought Monitoring in Poland**
+- 🔭 I’m currently working on **Satellite Image Time Series Analysis for Environmental Monitoring in Poland**
 
 - 🌱 I’m currently learning **AI/ML**
 
